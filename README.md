@@ -1,4 +1,4 @@
-# -Propositional-Logic-Inference-Engine-Truth-Table-Forward-Backward-Chaining-
+# Propositional-Logic-Inference-Engine-Truth-Table-Forward-Backward-Chaining-
 Developed a command-line inference engine for propositional logic that determines whether a given query can be logically entailed from a Horn-form knowledge base using:
 
 Truth Table Checking (TT)
